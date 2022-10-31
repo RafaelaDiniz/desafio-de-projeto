@@ -11,7 +11,7 @@ Ao executar o comando git status, é possível obter o status completo do reposi
 ## *s = !git status -s*
 Mas ao adotar o parâmetro -s no final do atalho criado, cria-se um status resumido, resultando em maior dinamismo.
 
-## Git Coomits
+## Git Commits
 
 Commit = conjunto de alterações feitas em um projeto. 
 
